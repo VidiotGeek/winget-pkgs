@@ -1,0 +1,22 @@
+# Created using wingetcreate 1.10.3.0
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.10.0.schema.json
+
+PackageIdentifier: Interactive-Technologies.CueServerStudio
+PackageVersion: 5.2.7
+PackageLocale: en-US
+Publisher: Interactive Technologies, Inc.
+PublisherUrl: https://interactive-online.com/
+PublisherSupportUrl: https://interactive-online.com/support
+PackageName: CueServer Studio
+PackageUrl: https://interactive-online.com/downloads/CueServerStudio
+License: Mixed
+LicenseUrl: https://interactive-online.com/manuals/cs2/legal-notices
+Copyright: Copyright (C) 2006-2026 Interactive Technologies, Inc. All rights reserved.
+CopyrightUrl: https://interactive-online.com/manuals/cs2/legal-notices
+ShortDescription: CueServer Studio is the desktop application used to program, configure, locate and operate CueServer 2 and CueServer 3 devices. It is available for both Mac OS X and Windows.
+Documentations:
+  DocumentLabel: Release Notes for v5.2.7
+  DocumentUrl: https://interactive-online.com/manuals/cs2/v5-2-7
+ReleaseNotesUrl: https://interactive-online.com/manuals/cs2/release-notes
+ManifestType: defaultLocale
+ManifestVersion: 1.10.0
